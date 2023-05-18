@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
-const foodRoutes = require('./routes/foodRoutes');
-const clothesRoutes = require('./routes/clothesRoutes');
+const foodRoutes = require('./routes/food');
+const clothesRoutes = require('./routes/clothes');
 
 app.use(express.json());
 

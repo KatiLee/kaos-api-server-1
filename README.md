@@ -10,16 +10,15 @@ This is a basic Express server including use of SQL data models using best pract
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/IkeSteoger/api-server/actions)
-<!-- - [back-end dev server url]() -->
-- [back-end prod server url](https://api-server-main.onrender.com)
+- [GitHub Actions ci/cd](https://github.com/CodingKao/api-server/pulls?q=is%3Apr+is%3Aclosed)
+
+- [back-end prod server url](https://api-server-u31c.onrender.com/)
 
 ### Collaborators
 
 - Kenya Womack
 - Hayden Cooper
 - Coriana Williams
-
 
 ### Setup
 
